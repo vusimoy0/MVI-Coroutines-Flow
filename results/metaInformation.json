@@ -1,0 +1,16 @@
+{
+  "total": 105,
+  "tools inspection": {
+    "Code Inspection": 105
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/vusimoy0/MVI-Coroutines-Flow",
+        "revisionId": "9cbe13d6053ab75416dd2011b78fed5154a3ce4b",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-ccf9-859f-96fc-1bb6bca2df73"
+  }
+}
